@@ -66,6 +66,7 @@ groups:
           - <plain>a half
           - <plain>ok
 
+
     -
         type: ChoiceQuestion
         id: krylov

@@ -64,7 +64,7 @@ groups:
             rtol: 1e-4
           - <plain>half
           - <plain>a half
-          - <plain>ok
+          - <plain>一半
 
 
     -
